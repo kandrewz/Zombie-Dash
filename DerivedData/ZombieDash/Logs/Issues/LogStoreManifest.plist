@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>046EFF6C-D9BC-4412-8269-388BCE8EF7E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>046EFF6C-D9BC-4412-8269-388BCE8EF7E1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>ZombieDash-bacugfmzezvvbhdbigjfacrzoidh</string>
+			<key>timeStartedRecording</key>
+			<real>572247181.406214</real>
+			<key>timeStoppedRecording</key>
+			<real>572247182.68846798</real>
+			<key>title</key>
+			<string>Build target ZombieDash</string>
+			<key>uniqueIdentifier</key>
+			<string>046EFF6C-D9BC-4412-8269-388BCE8EF7E1</string>
+		</dict>
+		<key>0C0DB91B-CF06-463C-90DA-448DE2DC1075</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>0C0DB91B-CF06-463C-90DA-448DE2DC1075.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>ZombieDash-fgvvjepwmwhzhxfiypbivgnhtnzg</string>
+			<key>timeStartedRecording</key>
+			<real>573110125.78567696</real>
+			<key>timeStoppedRecording</key>
+			<real>573110126.82958102</real>
+			<key>title</key>
+			<string>Build target ZombieDash</string>
+			<key>uniqueIdentifier</key>
+			<string>0C0DB91B-CF06-463C-90DA-448DE2DC1075</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
